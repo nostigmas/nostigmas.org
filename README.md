@@ -1,2 +1,3 @@
 # nostigmas.org
-Charity website upgrade
+Charity Wordpress Update
+
